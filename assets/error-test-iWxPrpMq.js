@@ -1,0 +1,1 @@
+function e(){throw Error(`This error is intentional — the ErrorBoundary caught it! Check router.jsx to see how it is configured.`)}export{e as default};
